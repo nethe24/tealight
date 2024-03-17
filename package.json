@@ -1,0 +1,20 @@
+{
+  "name": "tealight",
+  "version": "1.0.0",
+  "description": "the new seamless way to integrate with tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tea",
+    "light",
+    "seamless",
+    "easy"
+  ],
+  "author": "@neth24",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}

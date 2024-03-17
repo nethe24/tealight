@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# environment variables
+.env
+
+# production build
+/build
+
+# IDE files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# npm debug log
+npm-debug.log
+
+# Yarn integrity file
+.yarn-integrity
